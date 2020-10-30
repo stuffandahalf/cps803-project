@@ -112,6 +112,32 @@ class FlagAttributes(object):
             self.topleft = Colour.__dict__.get(attributes[ParseField.TOP_LEFT].upper())#, Colour.OTHER)
             self.botright = Colour.__dict__.get(attributes[ParseField.BOTTOM_RIGHT].upper())#, Colour.OTHER)
 
+    def attributes(self):
+        return [
+            self.bars,
+            self.stripes,
+            self.colours,
+            int(self.red),
+            int(self.green),
+            int(self.blue),
+            int(self.gold),
+            int(self.white),
+            int(self.black),
+            int(self.orange),
+            int(self.mainhue),
+            self.circles,
+            self.crosses,
+            self.quarters,
+            self.sunstars,
+            int(self.crescent),
+            int(self.triangle),
+            int(self.icon),
+            int(self.animate),
+            int(self.text),
+            int(self.topleft),
+            int(self.botright)
+        ]
+
     def parse(f):
-        return [FlagAttributes(line) for line in f]
+        return [FlagAttributes(line) for line in f if line.strip()]
 

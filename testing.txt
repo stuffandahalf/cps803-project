@@ -1,0 +1,6 @@
+random forest classifier:	111/194
+Gaussian naive bayes:		78/194
+NearestCentroid			54/194
+SVM				39/194
+Multi-layer perception		95/194
+Decision tree classifier	110/194
