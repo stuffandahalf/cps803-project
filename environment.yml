@@ -4,3 +4,7 @@ channels:
 dependencies:
   - scikit-learn=0.23.2
   - python=3.6
+  - keras
+  - numpy
+  - matplotlib
+  - pandas
