@@ -55,6 +55,7 @@ class Colour(enum.IntEnum):
     BLACK = 6
     ORANGE = 7
     BROWN = 8
+    YELLOW = 9
 
 class FlagAttributes(object):
     def __init__(self, line = None):
@@ -85,7 +86,7 @@ class FlagAttributes(object):
             self.topleft = Colour.OTHER
             self.botright = Colour.OTHER
         else:
-            attributes = line.strip().split(',')
+            attributes = [a.strip() for a in line.strip().split(',')]
             self.name = attributes[ParseField.NAME]
             self.religion = Religion(int(attributes[ParseField.RELIGION]))
             self.bars = int(attributes[ParseField.BARS])
@@ -113,6 +114,7 @@ class FlagAttributes(object):
             self.botright = Colour.__dict__.get(attributes[ParseField.BOTTOM_RIGHT].upper())#, Colour.OTHER)
 
     def attributes(self):
+        #print(self.__dict__)
         return [
             self.bars,
             self.stripes,
@@ -138,6 +140,6 @@ class FlagAttributes(object):
             int(self.botright)
         ]
 
-    def parse(f):
-        return [FlagAttributes(line) for line in f if line.strip()]
+    def parse(f, skip_first=False):
+        return [FlagAttributes(line) for i, line in enumerate(f) if not (skip_first and i == 0) and line.strip()]
 
