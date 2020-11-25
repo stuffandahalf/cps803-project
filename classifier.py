@@ -21,14 +21,15 @@ def FULL_PATH(): return 'data/attributes/flags.csv'
 #def TEST_PATH(): return 'data/attributes/6040/valid.csv'
 
 #70-30 tests
-def TRAIN_PATH(): return 'data/attributes/7030/train.csv'
-def TEST_PATH(): return 'data/attributes/7030/valid.csv'
+def TRAIN_PATH(version=''): return 'data/attributes/7030' + str(version) + '/train.csv'
+def TEST_PATH(version=''): return 'data/attributes/7030' + str(version) + '/valid.csv'
 
 #80-20 tests
 #def TRAIN_PATH(): return 'data/attributes/8020/train.csv'
 #def TEST_PATH(): return 'data/attributes/8020/valid.csv'
 
 def NUM_FOLDS(): return 10
+def DATASET_VERSION(): return 4
 
 def format_data(data):
     return ([flag.attributes() for flag in data], [country.religion for country in data])
@@ -40,12 +41,12 @@ def main(args):
     x_full, y_full = format_data(full_data)
 
     train_data = None
-    with open(TRAIN_PATH(), 'r') as f:
+    with open(TRAIN_PATH(DATASET_VERSION()), 'r') as f:
         train_data = attributes.FlagAttributes.parse(f, skip_first=True)
     x_train, y_train = format_data(train_data)
     
     valid_data = None
-    with open(TEST_PATH(), 'r') as f:
+    with open(TEST_PATH(DATASET_VERSION()), 'r') as f:
         valid_data = attributes.FlagAttributes.parse(f, skip_first=True)
     x_valid, y_valid = format_data(valid_data)
 
