@@ -1,0 +1,73 @@
+Name,"Continent(1=N.America, 2=S.America, 3=Europe, 4=Africa, 4=Asia, 6=Oceania)",Zone,Area,Population(in millions),Language,religion,bars,stripes,colours,red,green,blue,gold,white,black,orange,mainhue,circles,crosses,saltires,quarters,sunstars,crescent,triangle,icon,animate,text,topleft,botright,FILENAME
+Ireland,3,4,70,3,1,0,3,0,3,0,1,0,0,1,0,1,white,0,0,0,0,0,0,0,0,0,0,green,orange,AF.svg
+Dominican Republic,1,4,49,6,2,0,0,0,3,1,0,1,0,1,0,0,blue,0,1,0,0,0,0,0,0,0,0,blue,blue,AO.svg
+El Salvador,1,4,21,5,2,0,0,3,2,0,0,1,0,1,0,0,blue,0,0,0,0,0,0,0,0,0,0,blue,blue,AQ.svg
+Mexico,1,4,1973,77,2,0,3,0,4,1,1,0,0,1,0,1,green,0,0,0,0,0,0,0,0,1,0,green,red,AM.svg
+Paraguay,2,3,407,3,2,0,0,3,6,1,1,1,1,1,1,0,red,1,0,0,0,1,0,0,1,1,1,red,blue,AT.svg
+Haiti,1,4,28,6,3,0,2,0,2,1,0,0,0,0,1,0,black,0,0,0,0,0,0,0,0,0,0,black,red,BZ.svg
+Liechtenstein,3,1,0,0,4,0,0,2,3,1,0,1,1,0,0,0,red,0,0,0,0,0,0,0,1,0,0,blue,red,BT.svg
+Luxembourg,3,1,3,0,4,0,0,3,3,1,0,1,0,1,0,0,red,0,0,0,0,0,0,0,0,0,0,red,blue,BO.svg
+Andorra,3,1,0,0.08,6,0,3,0,3,1,0,1,1,0,0,0,gold,0,0,0,0,0,0,0,0,0,0,blue,red,BA.svg
+Belgium,3,1,31,11.46,6,0,3,0,3,1,0,0,1,0,1,0,gold,0,0,0,0,0,0,0,0,0,0,black,red,BW.svg
+Brazil,2,3,8512,209.5,6,0,0,0,4,0,1,1,1,1,0,0,green,1,0,0,0,22,0,0,0,0,1,green,green,BR.svg
+Italy,3,1,301,57,6,0,3,0,3,1,1,0,0,1,0,0,white,0,0,0,0,0,0,0,0,0,0,green,red,VG.svg
+Vatican-City,3,1,0,0,6,0,2,0,4,1,0,0,1,1,1,0,gold,0,0,0,0,0,0,0,1,0,0,gold,white,BI.svg
+Malta,3,1,0,0,10,0,2,0,3,1,0,0,0,1,1,0,red,0,1,0,0,0,0,0,1,0,0,white,red,CV.svg
+Aruba,,,,0.1,,0,0,2,4,1,0,1,0,1,0,0,blue,0,0,0,0,1,0,0,0,0,0,red,blue,CM.svg
+Eritrea,,,,3.21,,0,0,0,4,1,1,1,1,0,0,0,red,0,0,0,0,0,0,3,1,0,0,red,blue,CL.svg
+Slovenia,,,,2.08,,0,0,3,4,1,0,1,1,1,0,0,white,0,0,0,0,3,0,0,1,0,0,white,red,CR.svg
+Bolivia,2,3,1099,6,2,0,0,3,3,1,1,0,1,0,0,0,red,0,0,0,0,0,0,0,0,0,0,red,green,AL.svg
+Uruguay,2,3,178,3,2,0,0,9,3,0,0,1,1,1,0,0,white,0,0,0,1,1,0,0,0,0,0,white,white,BD.svg
+Belize,1,4,23,0.38,1,1,0,2,8,1,1,1,1,1,1,1,blue,1,0,0,0,0,0,0,1,1,1,red,red,DK.svg
+Cayman-Islands,1,4,0,0,1,1,0,0,6,1,1,1,1,1,0,1,blue,1,1,1,1,4,0,0,1,1,1,white,blue,EC.svg
+Falklands Malvinas,2,3,12,0,1,1,0,0,6,1,1,1,1,1,0,0,blue,1,1,1,1,0,0,0,1,1,1,white,blue,GQ.svg
+Fiji,6,2,18,1,1,1,0,0,7,1,1,1,1,1,0,1,blue,0,2,1,1,0,0,0,1,1,0,white,blue,ER.svg
+Gibraltar,3,4,0,0,1,1,0,1,3,1,0,0,1,1,0,0,white,0,0,0,0,0,0,0,1,0,0,white,red,EE.svg
+New Zealand,6,2,268,2,1,1,0,0,3,1,0,1,0,1,0,0,blue,0,1,1,1,4,0,0,0,0,0,white,blue,FR.svg
+St-Kitts-Nevis,1,4,0,0,1,1,0,0,5,1,1,0,1,1,1,0,green,0,0,0,0,2,0,1,0,0,0,green,red,DE.svg
+Turks and Caicos Islands,1,4,0,0,1,1,0,0,6,1,1,1,1,1,0,1,blue,0,1,1,1,0,0,0,1,1,0,white,blue,GR.svg
+United States Virgin Islands,1,4,0,0,1,1,0,0,6,1,1,1,1,1,0,0,white,0,0,0,0,0,0,0,1,1,1,white,white,GD.svg
+Western-Samoa,6,3,3,0,1,1,0,0,3,1,0,1,0,1,0,0,red,0,0,0,1,5,0,0,0,0,0,blue,red,GT.svg
+Cyprus,3,1,9,1,6,1,0,0,3,0,1,0,1,1,0,0,white,0,0,0,0,0,0,0,1,1,0,white,white,GW.svg
+South Africa,4,2,1221,29,6,1,0,3,5,1,1,1,0,1,0,1,orange,0,1,1,0,0,0,0,0,0,0,orange,blue,ID.svg
+Armenia,,,,2.96,,1,0,3,3,1,0,1,0,0,0,1,red,0,0,0,0,0,0,0,0,0,0,red,yellow,KZ.svg
+Belarus,,,,9.47,,1,1,2,4,1,1,0,0,1,0,0,red,0,0,0,0,0,0,0,0,0,0,red,green,KE.svg
+Faroe Islands (Associate Member),,,,0.05,,1,0,0,3,1,0,1,0,1,0,0,white,0,2,0,0,0,0,0,0,0,0,white,white,KI.svg
+Latvia,,,,2,,1,0,3,2,1,0,0,0,1,0,0,red,0,0,0,0,0,0,0,0,0,0,red,red,LV.svg
+Madagascar,,,,26.26,,1,1,2,3,1,1,0,0,1,0,0,white,0,0,0,0,0,0,0,0,0,0,white,green,LS.svg
+Republic of Moldova,,,,3.55,,1,3,0,4,1,0,1,1,0,0,1,gold,0,0,0,0,1,0,0,1,2,0,blue,red,LU.svg
+Réunion,,,,0.86,,1,0,0,3,1,0,1,1,0,0,0,blue,0,0,0,0,0,0,1,0,0,0,gold,red,MO.svg
+Serbia,,,,6.96,,1,0,3,4,1,0,1,1,1,0,0,red,0,0,0,0,0,0,0,1,1,0,red,white,MW.svg
+The former Yugoslav Republic of Macedonia,,,,2.07,,1,0,0,2,1,0,0,1,0,0,0,gold,0,0,0,0,1,0,0,0,0,0,red,red,MY.svg
+Tokelau (Associate Member),,,,0.001,,1,0,0,3,0,0,1,1,1,0,0,blue,0,0,0,0,4,0,0,1,0,0,blue,blue,MV.svg
+Ukraine,,,,41.98,,1,0,2,2,0,0,1,1,0,0,0,blue,0,0,0,0,0,0,0,0,0,0,blue,gold,ML.svg
+Guam,6,1,0,0,1,1,0,0,7,1,1,1,1,1,0,1,blue,0,0,0,0,0,0,0,1,1,1,red,red,FK.svg
+United States of America,1,4,9363,231,1,1,0,13,3,1,0,1,0,1,0,0,white,0,0,0,1,50,0,0,0,0,0,blue,red,GU.svg
+Kiribati,6,1,0,0,1,1,0,0,4,1,0,1,1,1,0,0,red,0,0,0,0,1,0,0,1,1,0,red,blue,FJ.svg
+Finland,3,1,337,5,9,1,0,0,2,0,0,1,0,1,0,0,white,0,1,0,0,0,0,0,0,0,0,white,white,IM.svg
+Guinea,4,4,246,6,3,2,3,0,3,1,1,0,1,0,0,0,gold,0,0,0,0,0,0,0,0,0,0,red,green,MR.svg
+Niger,4,1,1267,5,3,2,0,3,3,0,1,0,0,1,0,1,orange,1,0,0,0,0,0,0,0,0,0,orange,green,MX.svg
+Pakistan,5,1,804,84,6,2,1,0,2,0,1,0,0,1,0,0,green,0,0,0,0,1,1,0,0,0,0,white,green,MN.svg
+Kuwait,5,1,18,2,8,2,0,3,4,1,1,0,0,1,1,0,green,0,0,0,0,0,0,0,0,0,0,green,red,NA.svg
+Tunisia,4,1,164,7,8,2,0,0,2,1,0,0,0,1,0,0,red,1,0,0,0,1,1,0,0,0,0,red,red,NG.svg
+UAE,5,1,84,1,8,2,1,3,4,1,1,0,0,1,1,0,green,0,0,0,0,0,0,0,0,0,0,red,black,NU.svg
+Indonesia,6,2,1904,157,10,2,0,2,2,1,0,0,0,1,0,0,red,0,0,0,0,0,0,0,0,0,0,red,white,NO.svg
+Nigeria,4,1,925,56,10,2,3,0,2,0,1,0,0,1,0,0,green,0,0,0,0,0,0,0,0,0,0,green,green,PW.svg
+Azerbaijan,,,,9.98,,2,0,3,4,1,1,1,0,1,0,0,blue,0,0,0,0,1,1,0,0,0,0,blue,green,PA.svg
+Kazakhstan,,,,18.28,,2,0,0,2,0,0,1,1,0,0,0,blue,0,0,0,0,1,0,0,0,1,0,blue,blue,PH.svg
+Kyrgyzstan,,,,6.32,,2,0,0,2,1,0,0,1,0,0,0,red,0,0,0,0,1,0,0,0,0,0,red,red,PN.svg
+Palestine,,,,4.57,,2,0,3,4,1,1,0,0,1,1,0,black,0,0,0,0,0,0,1,0,0,0,red,green,PL.svg
+Western Sahara,,,,0.597,,2,0,3,4,1,1,0,0,1,1,0,black,0,0,0,0,1,1,1,0,0,0,black,green,RE.svg
+Egypt,4,1,1001,47,8,2,0,3,4,1,0,0,1,1,1,0,black,0,0,0,0,0,0,0,0,1,1,red,black,MA.svg
+Bhutan,5,1,47,0.75,10,3,0,0,4,1,0,0,0,1,1,1,orange,4,0,0,0,0,0,0,0,1,0,orange,red,VC.svg
+Sierra Leone,4,4,72,3,1,5,0,3,3,0,1,1,0,1,0,0,green,0,0,0,0,0,0,0,0,0,0,green,blue,SS.svg
+Burundi,4,2,28,4,10,5,0,0,3,1,1,0,0,1,0,0,red,1,0,1,0,3,0,0,0,0,0,white,white,SD.svg
+Gabon,4,2,268,1,10,5,0,3,3,0,1,1,1,0,0,0,green,0,0,0,0,0,0,0,0,0,0,green,blue,CH.svg
+Lesotho,4,2,30,1,10,5,2,0,4,1,1,1,0,1,0,0,blue,0,0,0,0,0,0,0,1,0,0,green,blue,TW.svg
+Uganda,4,1,236,13,10,5,0,6,5,1,0,0,1,1,1,0,gold,1,0,0,0,0,0,0,0,1,0,black,red,TG.svg
+Zambia,4,2,753,6,10,5,3,0,4,1,1,0,0,0,1,1,green,0,0,0,0,0,0,0,0,1,0,green,brown,TO.svg
+Zimbabwe,4,2,391,8,10,5,0,7,5,1,1,0,1,1,1,0,green,0,0,0,0,1,0,1,1,1,0,green,green,TT.svg
+USSR,5,1,22402,274,5,6,0,0,2,1,0,0,1,0,0,0,red,0,0,0,0,1,0,0,1,0,0,red,red,TV.svg
+Hungary,3,1,93,11,9,6,0,3,3,1,1,0,0,1,0,0,red,0,0,0,0,0,0,0,0,0,0,red,green,TZ.svg
+Japan,5,1,372,118,9,7,0,0,2,1,0,0,0,1,0,0,white,1,0,0,0,1,0,0,0,0,0,white,white,VU.svg
+Estonia,,,,1.33,,7,0,3,3,0,0,1,0,1,1,0,blue,0,0,0,0,0,0,0,0,0,0,blue,white,YE.svg

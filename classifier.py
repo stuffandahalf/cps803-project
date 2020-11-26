@@ -29,7 +29,8 @@ def TEST_PATH(version=''): return 'data/attributes/7030' + str(version) + '/vali
 #def TEST_PATH(): return 'data/attributes/8020/valid.csv'
 
 def NUM_FOLDS(): return 10
-def DATASET_VERSION(): return 4
+#def DATASET_VERSION(): return 4 # reached 79%
+def DATASET_VERSION(): return 8
 
 def format_data(data):
     return ([flag.attributes() for flag in data], [country.religion for country in data])
