@@ -1,0 +1,1500 @@
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
+/usr/lib/python3.8/site-packages/sklearn/model_selection/_split.py:670: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=10.
+  warnings.warn(("The least populated class in y has only %d"
