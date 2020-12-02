@@ -1,0 +1,25 @@
+Scoring of model for each iteration
+[0.3, 0.4, 0.2, 0.3, 0.5, 0.5, 0.4, 0.3, 0.3, 0.4444444444444444, 0.3333333333333333, 0.4444444444444444, 0.4444444444444444, 0.4444444444444444, 0.1111111111111111]
+Mean of model iterations: 0.36148148148148146
+validation performance:	 34 / 48 	ratio: 0.71
+full performance:	 166 / 194 	ratio: 0.86
+Scoring of model for each iteration
+[0.3, 0.3, 0.2, 0.2, 0.5, 0.5, 0.4, 0.3, 0.3, 0.4444444444444444, 0.3333333333333333, 0.3333333333333333, 0.6666666666666666, 0.4444444444444444, 0.1111111111111111]
+Mean of model iterations: 0.3555555555555555
+validation performance:	 34 / 48 	ratio: 0.71
+full performance:	 166 / 194 	ratio: 0.86
+Scoring of model for each iteration
+[0.2, 0.5, 0.2, 0.2, 0.5, 0.4, 0.4, 0.3, 0.2, 0.5555555555555556, 0.2222222222222222, 0.3333333333333333, 0.5555555555555556, 0.5555555555555556, 0.1111111111111111]
+Mean of model iterations: 0.34888888888888886
+validation performance:	 31 / 48 	ratio: 0.65
+full performance:	 163 / 194 	ratio: 0.84
+Scoring of model for each iteration
+[0.2, 0.4, 0.2, 0.2, 0.4, 0.4, 0.4, 0.3, 0.3, 0.4444444444444444, 0.4444444444444444, 0.5555555555555556, 0.5555555555555556, 0.5555555555555556, 0.1111111111111111]
+Mean of model iterations: 0.36444444444444435
+validation performance:	 31 / 48 	ratio: 0.65
+full performance:	 163 / 194 	ratio: 0.84
+Scoring of model for each iteration
+[0.3, 0.4, 0.2, 0.2, 0.4, 0.5, 0.4, 0.3, 0.2, 0.4444444444444444, 0.2222222222222222, 0.4444444444444444, 0.4444444444444444, 0.5555555555555556, 0.1111111111111111]
+Mean of model iterations: 0.34148148148148144
+validation performance:	 35 / 48 	ratio: 0.73
+full performance:	 167 / 194 	ratio: 0.86

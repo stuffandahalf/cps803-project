@@ -33,6 +33,9 @@ def FULL_PATH(): return 'data/attributes/flags.csv'
 #def TRAIN_PATH(): return 'data/attributes/8020/train.csv'
 #def TEST_PATH(): return 'data/attributes/8020/valid.csv'
 
+#def TRAIN_PATH(): return 'data/attributes/forced/train.csv'
+#def VALID_PATH(): return 'data/attributes/forced/valid.csv'
+
 def TRAIN_PATH(): return 'data/attributes/forced_tweaked/train.csv'
 def VALID_PATH(): return 'data/attributes/forced_tweaked/valid.csv'
 
