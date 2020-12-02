@@ -10,30 +10,34 @@ from sklearn.neighbors import NearestCentroid
 from sklearn.naive_bayes import GaussianNB
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import plot_confusion_matrix
+import matplotlib.pyplot as plt
 import attributes
 
 #def TRAIN_PATH(): return 'data/attributes/train.csv'
 #def TEST_PATH(): return 'data/attributes/test.csv'
 def FULL_PATH(): return 'data/attributes/flags.csv'
 
+#def DATASET_VERSION(): return 4 # reached 79%
+#def DATASET_VERSION(): return 8
+
 #60-40 tests
 #def TRAIN_PATH(): return 'data/attributes/6040/train.csv'
 #def TEST_PATH(): return 'data/attributes/6040/valid.csv'
 
 #70-30 tests
-#def TRAIN_PATH(version=''): return 'data/attributes/7030' + str(version) + '/train.csv'
-#def TEST_PATH(version=''): return 'data/attributes/7030' + str(version) + '/valid.csv'
+#def TRAIN_PATH(version=DATASET_VERSION()): return 'data/attributes/7030' + str(version) + '/train.csv'
+#def VALID_PATH(version=DATASET_VERSION()): return 'data/attributes/7030' + str(version) + '/valid.csv'
 
 #80-20 tests
 #def TRAIN_PATH(): return 'data/attributes/8020/train.csv'
 #def TEST_PATH(): return 'data/attributes/8020/valid.csv'
 
-def TRAIN_PATH(): return 'data/attributes/forced/train.csv'
-def VALID_PATH(): return 'data/attributes/forced/valid.csv'
+def TRAIN_PATH(): return 'data/attributes/forced_tweaked/train.csv'
+def VALID_PATH(): return 'data/attributes/forced_tweaked/valid.csv'
 
-def NUM_FOLDS(): return 10
-#def DATASET_VERSION(): return 4 # reached 79%
-#def DATASET_VERSION(): return 8
+#def NUM_FOLDS(): return 10
+def NUM_FOLDS(): return 15
 
 def format_data(data):
     return ([flag.attributes() for flag in data], [country.religion for country in data])
@@ -58,7 +62,7 @@ def main(args):
 
     model = RandomForestClassifier()
 #    model = DecisionTreeClassifier()
-#    model = MLPClassifier(solver='lbfgs', alpha=2.3, hidden_layer_sizes=(5, 2), random_state=0)
+#    model = MLPClassifier(solver='lbfgs', alpha=2.3, hidden_layer_sizes=(10, 5), random_state=0)
 #    model = SVC()
 #    model = NearestCentroid()
 #    model = GaussianNB()
@@ -81,6 +85,21 @@ def main(args):
     pred_full = [attributes.Religion(p) for p in model.predict(x_full)]
     correct = len([i for i in range(0, len(y_full)) if y_full[i] == pred_full[i]])
     print('full performance:\t', correct, '/', len(y_full), '\tratio:', round(correct / len(y_full), 2))
+    
+    conf_matrix_valid = plot_confusion_matrix(model, x_valid, y_valid, 
+        labels=[r.value for r in attributes.Religion],
+        display_labels=[r.name for r in attributes.Religion])
+    plt.show()
+    
+    conf_matrix_full = plot_confusion_matrix(model, x_full, y_full,
+        labels=[r.value for r in attributes.Religion],
+        display_labels=[r.name for r in attributes.Religion])
+    plt.show()
+    
+    '''plt.figure()
+    plt.scatter(range(len(y_valid)), y_valid)
+    plt.plot(range(len(pred_test)), pred_test)
+    plt.savefig('predictions.pdf')'''
     
     return 0
 

@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# reconstructs the indices produced by sampler.py into csv files
+
 def FULL_PATH(): return 'data/attributes/flags.csv'
 def TRAIN_PATH(): return 'sampler_test/train.csv'
 def VALID_PATH(): return 'sampler_test/valid.csv'

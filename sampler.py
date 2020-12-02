@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# randomly generates 750 variations on the dataset split and saves the
+# indices of the best splits
+# to be used in tandem with data_builder.py
+
 from sklearn.model_selection import cross_val_score, cross_val_predict
 #from sklearn.model_selection import KFold
 from sklearn.model_selection import StratifiedKFold
